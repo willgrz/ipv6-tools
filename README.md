@@ -531,7 +531,7 @@ IPv6 utils is a useful toolkit for people doing IPv6 networking.
                 <tr>
                   <th>Prefix</th>
                   <th>Description</th>
-                  <th>IPv6 equivalent</th>
+                  <th>IPv4 equivalent</th>
                 </tr>
               </thead>
               <tbody>
