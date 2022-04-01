@@ -44,7 +44,7 @@ IPv6 utils is a useful toolkit for people doing IPv6 networking.
                 </tr>
                 <tr>
                   <td>/9</td>
-                  <td>36,028,797,018,963,968 networks /6</td>
+                  <td>36,028,797,018,963,968 networks /64</td>
                 </tr>
                 <tr>
                   <td>/10</td>
