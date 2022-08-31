@@ -18,7 +18,7 @@ IPv6 addresses can be used in different formats:
 **Compressed:**
 2a0e:a4eb:b50:c:57f3:3f9:41f4:5533
 
-Example network range:
+Examples of network ranges (All areas in bold are free and usable):
 
 - 2001:db8:1ee::/48 (65,536 networks /64):
   - First address: 2001:db8:1ee:**0000:0000:0000:0000:0000**
