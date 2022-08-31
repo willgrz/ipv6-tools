@@ -1,6 +1,55 @@
 # 🧰  IPv6 Utils
 IPv6 utils is a useful toolkit for people doing IPv6 networking.
 
+## Formatting & identification
+A hexadecimal number can have 16 different values (from 0 to 9 and from A to F), which corresponds to exactly 4 bits. As each group is composed of four hexadecimal numbers, each group has 16 bits:
+
+```
+ 16   32   48   64   80   96  112  128
+ |    |    |    |    |    |    |    |
+2a0e:a4eb:b50:000c:57f3:03f9:41f4:5533
+```
+
+IPv6 addresses can be used in different formats:
+
+**Uncompressed:**
+2a0e:a4eb:b50:**000**c:57f3:**0**3f9:41f4:5533
+
+**Compressed:**
+2a0e:a4eb:b50:c:57f3:3f9:41f4:5533
+
+Example network range:
+
+- 2001:db8:1ee::/48 (65,536 networks /64):
+  - First address: 2001:db8:1ee:**0000:0000:0000:0000:0000**
+  - Last address: 2001:db8:1ee:**ffff:ffff:ffff:ffff:ffff**
+
+
+- 2001:db8:1ee::/44 (1,048,576 networks /64):
+  - First address: 2001:db8:1e**0:0000:0000:0000:0000:0000**
+  - Last address: 2001:db8:1e**f:ffff:ffff:ffff:ffff:ffff**
+
+## Free tunnel brokers
+- https://tunnelbroker.net/
+- https://tb.netassist.ua/ (BGP enabled)
+- https://tunnelbroker.ch/ (BGP enabled)
+- https://route48.org/ (BGP enabled)
+
+## Prefix providers
+- https://securebit.ch/
+- https://dyjix.eu/
+- https://lir.services/
+- https://ifog.ch/
+- https://bakker-it.eu/
+- https://flokinet.is/
+- https://myroot.pw/
+- https://hostus.us/
+- https://freerangecloud.com/
+- https://snapserv.net/
+- https://servperso.net/
+- https://route48.org/
+- and many others ..
+
 ## List of subnets with CIDR
 <table>
               <thead>
@@ -581,3 +630,4 @@ IPv6 utils is a useful toolkit for people doing IPv6 networking.
 ## Sources
 - https://fr.wikipedia.org/wiki/IPv6
 - http://www.gestioip.net/cgi-bin/subnet_calculator.cgi
+- https://www.cidr.eu/en/ipv6
