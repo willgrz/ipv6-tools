@@ -38,7 +38,8 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
 - https://route48.org/ (BGP enabled, multiple locations)
 
-## Prefix providers
+## Prefix and/or LIR services (ASN) providers
+## !! Extreme price variations especially for ASNs - make sure to compare all you find before buying !!
 
 - https://securebit.ch/
 - https://dyjix.eu/
@@ -60,6 +61,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://mtr.tools/
 - https://bgp.tools
 - https://ping.pe/
+- https://ping.sx
 
 ## Looking glasses
 
