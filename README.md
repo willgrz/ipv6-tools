@@ -1,9 +1,7 @@
-# 🧰 IPv6 Utils
-
+# 🧰  IPv6 Utils
 IPv6 utils is a useful toolkit for people doing IPv6 networking.
 
 ## Formatting & identification
-
 A hexadecimal number can have 16 different values (from 0 to 9 and from A to F), which corresponds to exactly 4 bits. As each group is composed of four hexadecimal numbers, each group has 16 bits:
 
 ```
@@ -23,23 +21,24 @@ IPv6 addresses can be used in different formats:
 Examples of network ranges (All areas in bold are free and usable):
 
 - 2001:db8:1ee::/48 (65,536 networks /64):
-
   - First address: 2001:db8:1ee:**0000:0000:0000:0000:0000**
   - Last address: 2001:db8:1ee:**ffff:ffff:ffff:ffff:ffff**
+
 
 - 2001:db8:1ee::/44 (1,048,576 networks /64):
   - First address: 2001:db8:1e**0:0000:0000:0000:0000:0000**
   - Last address: 2001:db8:1e**f:ffff:ffff:ffff:ffff:ffff**
 
 ## Free tunnel brokers
-
 - https://tunnelbroker.net/ (multiple locations)
-- https://tb.netassist.ua/ (BGP enabled, Ukraine)
+- https://tb.netassist.ua/ (BGP only, Ukraine)
 - https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
-- https://route48.org/ (BGP enabled, multiple locations)
+- https://route48.org/ (BGP enabled, multiple locations, cannot use external prefixes)
+- https://www.route64.org/ (BGP enabled, multiple locations)
+- https://august.tw/ (BGP only, Canada, no routes to greater China (HK, CN, Macao) and North Korea)
 
-## Prefix providers
-
+## Prefix and/or LIR services (ASN) providers
+## !! Extreme price variations especially for ASNs - make sure to compare all you find before buying !!
 - https://securebit.ch/
 - https://dyjix.eu/
 - https://lir.services/
@@ -53,62 +52,18 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://snapserv.net/
 - https://servperso.net/
 - https://route48.org/
+- https://august.tw/
 - and many others ..
 
-## Debug tools
-
+## Useful debug tools/looking glasses
 - https://mtr.tools/
-- https://bgp.tools
-- https://ping.pe/
-
-## Looking glasses
-
-### Tier 1
-
-- https://lg.as6453.net/bin/lg.cgi
-- https://www.cogentco.com/en/looking-glass
-- https://lookingglass.centurylink.com
-- http://www.as3257.net/lg
-- https://lg.as6453.net/bin/lg.cgi
-- https://www.sprint.net/tools/looking-glass
-- http://lg.zayo.com/lg.cgi
-- https://lg.opentransit.net
-- http://lg.telia.net
-- https://gambadilegno.noc.seabone.net/lg
-- https://www.gin.ntt.net/looking-glass
-- https://lookingglass.telekom.com
+- https://lg.he.net/
 - https://lg.twelve99.net/
 
-### Others
-
-- https://lg.ovh.net
-- https://www.pch.net/tools/looking_glass
-- https://lg.as213045.net
-- https://www.as58057.net
-- https://lg.retn.net
-- https://lg.hivane.net
-- https://www.as13030.net/looking-glass.php
-- http://lg.core-backbone.com
-- http://lg.as8218.eu
-- https://lg.grenode.net
-- https://lg.shadow.tech
-- https://lg.ch.as1836.net/lg
-- http://lg.hopus.net
-- https://lg.globenet.net/lg/lg.cgi
-- https://lg.eastlink.ca
-- https://webadmin.oxymium.net/mrlg
-- https://lg.de-cix.net
-- https://as41103.net/cgi-bin/bgplg
-- http://www.atlantis.bg/?id=18
-- https://lg.tetaneutral.net
-- http://lg.as60362.net
-- https://portal.spilsby.net.uk/lg
-- https://lg.a2b-internet.com
-- https://lg.anexia-it.com/lg
-- http://lg.avelacom.ru
+## Remote Exchanges
+- https://www.4ixp.com/ (v4 and v6, route servers provided)
 
 ## List of subnets with CIDR
-
 <table>
               <thead>
                 <tr>
