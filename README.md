@@ -34,9 +34,11 @@ Examples of network ranges (All areas in bold are free and usable):
 ## Free tunnel brokers
 
 - https://tunnelbroker.net/ (multiple locations)
-- https://tb.netassist.ua/ (BGP enabled, Ukraine)
+- https://tb.netassist.ua/ (BGP only, Ukraine)
 - https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
-- https://route48.org/ (BGP enabled, multiple locations)
+- https://route48.org/ (BGP enabled, multiple locations, cannot use external prefixes)
+- https://www.route64.org/ (BGP enabled, multiple locations)
+- https://august.tw/ (BGP only, Canada, no routes to greater China (HK, CN, Macao) and North Korea)
 
 ## Prefix providers
 
@@ -53,6 +55,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://snapserv.net/
 - https://servperso.net/
 - https://route48.org/
+- https://august.tw/ 
 - and many others ..
 
 ## Debug tools
