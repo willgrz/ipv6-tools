@@ -33,7 +33,7 @@ Examples of network ranges (All areas in bold are free and usable):
 
 ## Free tunnel brokers
 
-- https://tunnelbroker.net/ (multiple locations)
+- https://tunnelbroker.net/ (multiple locations, routed /48 provided)
 - https://tb.netassist.ua/ (BGP only, Ukraine)
 - https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
 - https://route48.org/ (BGP enabled, multiple locations, cannot use external prefixes)
@@ -114,8 +114,8 @@ Examples of network ranges (All areas in bold are free and usable):
 - http://lg.avelacom.ru
 
 ## Virtual internet exchange points
-https://www.4ixp.com/ (around 130 peers via routeservers, connection via tunnel)
-https://bgp.exchange/ (connection via tunnel, locations not interconnected)
+- https://www.4ixp.com/ (around 130 peers via routeservers, connection via tunnel)
+- https://bgp.exchange/ (connection via tunnel, locations not interconnected)
 
 ## List of subnets with CIDR
 
