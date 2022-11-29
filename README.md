@@ -38,7 +38,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
 - https://route48.org/ (BGP enabled, multiple locations, cannot use external prefixes)
 - https://www.route64.org/ (BGP enabled, multiple locations)
-- https://august.tw/ (BGP only, Canada, no routes to greater China (HK, CN, Macao) and North Korea)
+- https://august.tw/ (BGP only, US, no routes to greater China (HK, CN, Macao) and North Korea)
 
 ## Prefix and/or LIR services (ASN) providers
 ## !! Extreme price variations especially for ASNs - compare all you find before buying !!
@@ -112,6 +112,10 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://lg.a2b-internet.com
 - https://lg.anexia-it.com/lg
 - http://lg.avelacom.ru
+
+## Virtual internet exchange points
+https://www.4ixp.com/ (around 130 peers via routeservers, connection via tunnel)
+https://bgp.exchange/ (connection via tunnel, locations not interconnected)
 
 ## List of subnets with CIDR
 
