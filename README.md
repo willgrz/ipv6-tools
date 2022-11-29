@@ -34,12 +34,14 @@ Examples of network ranges (All areas in bold are free and usable):
 ## Free tunnel brokers
 
 - https://tunnelbroker.net/ (multiple locations)
-- https://tb.netassist.ua/ (BGP enabled, Ukraine)
+- https://tb.netassist.ua/ (BGP only, Ukraine)
 - https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
-- https://route48.org/ (BGP enabled, multiple locations)
+- https://route48.org/ (BGP enabled, multiple locations, cannot use external prefixes)
+- https://www.route64.org/ (BGP enabled, multiple locations)
+- https://august.tw/ (BGP only, Canada, no routes to greater China (HK, CN, Macao) and North Korea)
 
 ## Prefix and/or LIR services (ASN) providers
-## !! Extreme price variations especially for ASNs - make sure to compare all you find before buying !!
+## !! Extreme price variations especially for ASNs - compare all you find before buying !!
 
 - https://securebit.ch/
 - https://dyjix.eu/
@@ -54,6 +56,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://snapserv.net/
 - https://servperso.net/
 - https://route48.org/
+- https://august.tw/
 - and many others ..
 
 ## Debug tools
@@ -68,7 +71,7 @@ Examples of network ranges (All areas in bold are free and usable):
 ### Tier 1
 
 - https://lg.as6453.net/bin/lg.cgi
-- https://www.cogentco.com/en/looking-glass
+- https://www.cogentco.com/en/looking-glass (No routes to HE on IPv6)
 - https://lookingglass.centurylink.com
 - http://www.as3257.net/lg
 - https://lg.as6453.net/bin/lg.cgi
@@ -80,6 +83,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://www.gin.ntt.net/looking-glass
 - https://lookingglass.telekom.com
 - https://lg.twelve99.net/
+- https://lg.he.net/ (No routes to Cogent on IPv6; not an actual Tier 1)
 
 ### Others
 
