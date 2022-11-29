@@ -30,10 +30,10 @@ Examples of network ranges (All areas in bold are free and usable):
   - Last address: 2001:db8:1e**f:ffff:ffff:ffff:ffff:ffff**
 
 ## Free tunnel brokers
-- https://tunnelbroker.net/
-- https://tb.netassist.ua/ (BGP enabled)
-- https://tunnelbroker.ch/ (BGP enabled)
-- https://route48.org/ (BGP enabled)
+- https://tunnelbroker.net/ (multiple locations)
+- https://tb.netassist.ua/ (BGP enabled, Ukraine)
+- https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
+- https://route48.org/ (BGP enabled, multiple locations)
 
 ## Prefix providers
 - https://securebit.ch/
@@ -43,12 +43,18 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://bakker-it.eu/
 - https://flokinet.is/
 - https://myroot.pw/
+- https://ip6.im
 - https://hostus.us/
 - https://freerangecloud.com/
 - https://snapserv.net/
 - https://servperso.net/
 - https://route48.org/
 - and many others ..
+
+## Useful debug tools/looking glasses
+- https://mtr.tools/
+- https://lg.he.net/
+- https://lg.twelve99.net/
 
 ## List of subnets with CIDR
 <table>
