@@ -41,7 +41,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://august.tw/ (BGP only, Canada, no routes to greater China (HK, CN, Macao) and North Korea)
 
 ## Prefix and/or LIR services (ASN) providers
-## !! Extreme price variations especially for ASNs - compare all you find before buying !!
+### !! Extreme price variations especially for ASNs - compare all you find before buying !!
 
 - https://securebit.ch/
 - https://dyjix.eu/
@@ -59,14 +59,14 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://august.tw/
 - and many others ..
 
-## Debug tools
+## Debug tools (IPv6/IPv4)
 
 - https://mtr.tools/
 - https://bgp.tools
 - https://ping.pe/
 - https://ping.sx
 
-## Looking glasses
+## Looking glasses (IPv6/IPv4)
 
 ### Tier 1
 
