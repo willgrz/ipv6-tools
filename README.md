@@ -38,7 +38,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
 - https://route48.org/ (BGP enabled, multiple locations, cannot use external prefixes)
 - https://www.route64.org/ (BGP enabled, multiple locations)
-- https://august.tw/ (BGP only, US, no routes to greater China (HK, CN, Macao) and North Korea)
+- https://august.tw/ (BGP enabled, US, no routes to greater China)
 
 ## Prefix and/or LIR services (ASN) providers
 ### !! Extreme price variations especially for ASNs - compare before buying !!
@@ -74,16 +74,19 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://www.cogentco.com/en/looking-glass (No routes to HE on IPv6)
 - https://lookingglass.centurylink.com
 - http://www.as3257.net/lg
-- https://lg.as6453.net/bin/lg.cgi
 - https://www.sprint.net/tools/looking-glass
 - http://lg.zayo.com/lg.cgi
 - https://lg.opentransit.net
-- http://lg.telia.net
+- https://lg.aorta.net/
 - https://gambadilegno.noc.seabone.net/lg
 - https://www.gin.ntt.net/looking-glass
 - https://lookingglass.telekom.com
 - https://lg.twelve99.net/
-- https://lg.he.net/ (No routes to Cogent on IPv6; not an actual Tier 1)
+- https://telxius.com/en/looking-glass-3/
+- https://enterprise.verizon.com/why-verizon/looking-glass/
+- https://lookingglass.consoleconnect.com
+- http://route-server.ip.att.net
+- https://lg.he.net/ (No routes to Cogent on IPv6)
 
 ### Others
 
@@ -112,6 +115,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://lg.a2b-internet.com
 - https://lg.anexia-it.com/lg
 - http://lg.avelacom.ru
+- https://lg.august.tw
 
 ## Virtual internet exchange points
 - https://www.4ixp.com/ (around 130 peers via routeservers, connection via tunnel)
@@ -655,7 +659,7 @@ Examples of network ranges (All areas in bold are free and usable):
                 <tr>
                   <td>::1/128</td>
                   <td>Loopback</td>
-                  <td>127.0.0.1</td>
+                  <td>127.0.0.0/8</td>
                 </tr>
                 <tr>
                   <td>fe80::/10</td>
@@ -680,17 +684,17 @@ Examples of network ranges (All areas in bold are free and usable):
                 <tr>
                   <td>2001:db8::/32</td>
                   <td>Documentation</td>
-                  <td>192.0.2.0/24, 198.51.100.0/24, 203.0.113.0/24</td>
+                  <td>192.0.2.0/24, 198.51.100.0/24, 203.0.113.0/24, 233.252.0.0/24</td>
                 </tr>
                 <tr>
                   <td>::/128</td>
                   <td>Unspecified</td>
-                  <td>0.0.0.0</td>
+                  <td>0.0.0.0/8</td>
                 </tr>
                 <tr>
                   <td>::/8</td>
                   <td>Reserved</td>
-                  <td></td>
+                  <td>240.0.0.0/4</td>
                 </tr>
                 </tbody>
 </table>
