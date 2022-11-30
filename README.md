@@ -41,6 +41,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://august.tw/ (BGP enabled, US, no routes to greater China)
 
 ## Prefix and/or LIR services (ASN) providers
+
 ### !! Extreme price variations especially for ASNs - compare before buying !!
 
 - https://securebit.ch/
@@ -70,22 +71,22 @@ Examples of network ranges (All areas in bold are free and usable):
 
 ### Tier 1
 
-- https://lg.as6453.net/bin/lg.cgi
-- https://www.cogentco.com/en/looking-glass (No routes to HE on IPv6)
-- https://lookingglass.centurylink.com
-- http://www.as3257.net/lg
-- https://www.sprint.net/tools/looking-glass
-- http://lg.zayo.com/lg.cgi
-- https://lg.opentransit.net
-- https://lg.aorta.net/
-- https://gambadilegno.noc.seabone.net/lg
-- https://www.gin.ntt.net/looking-glass
-- https://lookingglass.telekom.com
-- https://lg.twelve99.net/
-- https://telxius.com/en/looking-glass-3/
-- https://enterprise.verizon.com/why-verizon/looking-glass/
-- https://lookingglass.consoleconnect.com
-- http://route-server.ip.att.net
+- https://lg.as6453.net/bin/lg.cgi (TATA Communications)
+- https://www.cogentco.com/en/looking-glass (Cogent) (No routes to HE on IPv6)
+- https://lookingglass.centurylink.com (Lumen)
+- http://www.as3257.net/lg (GTT Communications)
+- https://www.sprint.net/tools/looking-glass (Sprint)
+- http://lg.zayo.com/lg.cgi (Zayo Bandwidth)
+- https://lg.opentransit.net (Orange)
+- https://lg.aorta.net/ (Aorta)
+- https://gambadilegno.noc.seabone.net/lg (Telecom Italia Sparkle)
+- https://www.gin.ntt.net/looking-glass (NTT)
+- https://lookingglass.telekom.com (Telekom)
+- https://lg.twelve99.net/ (Telia)
+- https://telxius.com/en/looking-glass-3/ (Telxius)
+- https://enterprise.verizon.com/why-verizon/looking-glass (Verizon)
+- https://lookingglass.consoleconnect.com (Consoleconnect)
+- http://route-server.ip.att.net (AT&T)
 - https://lg.he.net/ (No routes to Cogent on IPv6)
 
 ### Others
@@ -118,6 +119,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://lg.august.tw
 
 ## Virtual internet exchange points
+
 - https://www.4ixp.com/ (around 130 peers via routeservers, connection via tunnel)
 - https://bgp.exchange/ (connection via tunnel, locations not interconnected)
 
