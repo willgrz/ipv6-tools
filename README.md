@@ -2,6 +2,13 @@
 
 IPv6 utils is a useful toolkit for people doing IPv6 networking.
 
+## <img src="./assets/icons/contribute.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> To contribute
+
+If you want to improve this repository, here is the list of things to do:
+
+- Add more looking glass and sort them by continents for example <img src="./assets/icons/waiting.png" width="20" height="20" style="margin-top: 10px; margin-left: 5px;"></img>
+- Add any ideas and identify them with a green tick or a red cross (<img src="./assets/icons/waiting.png" width="20" height="20" style="margin-top: 10px; margin-left: 5px;"></img> <img src="./assets/icons/done.png" width="20" height="20" style="margin-top: 10px; margin-left: 5px;"></img>)
+
 ## <img src="./assets/icons/formatting.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Formatting & identification
 
 A hexadecimal number can have 16 different values (from 0 to 9 and from A to F), which corresponds to exactly 4 bits. As each group is composed of four hexadecimal numbers, each group has 16 bits:
@@ -63,6 +70,7 @@ Examples of network ranges (All areas in bold are free and usable):
 ## <img src="./assets/icons/dns.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> DNS Services (& rDNS)
 
 - https://dns.as213045.net
+- https://dns.he.net
 
 ## <img src="./assets/icons/debug_tools.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Debug tools (IPv6/IPv4)
 
