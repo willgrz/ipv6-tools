@@ -33,42 +33,42 @@ Examples of network ranges (All areas in bold are free and usable):
 
 ## <img src="./assets/icons/broker.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Free tunnel brokers
 
-- https://tunnelbroker.net/ (multiple locations, routed /48 provided)
-- https://tb.netassist.ua/ (BGP only, Ukraine)
-- https://tunnelbroker.ch/ (BGP enabled, Switzerland/Germany/Netherlands)
-- https://route48.org/ (BGP enabled, multiple locations, cannot use external prefixes)
-- https://www.route64.org/ (BGP enabled, multiple locations)
-- https://august.tw/ (BGP enabled, US, no routes to greater China)
+- https://tunnelbroker.net (multiple locations, routed /48 provided)
+- https://tb.netassist.ua (BGP only, Ukraine)
+- https://tunnelbroker.ch (BGP enabled, Switzerland/Germany/Netherlands)
+- https://route48.org (BGP enabled, multiple locations, cannot use external prefixes)
+- https://www.route64.org (BGP enabled, multiple locations)
+- https://august.tw (BGP enabled, US, no routes to greater China)
 
 ## <img src="./assets/icons/provider.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> LIR services (Prefixes, ASNs providers)
 
 ### <img src="./assets/icons/warning.png" width="20" height="20" style="float: left; margin-top: 11px; margin-right: 9px;"></img> Extreme price variations, especially for ASNs - compare before you buy !
 
-- https://securebit.ch/
-- https://dyjix.eu/
-- https://lir.services/
-- https://ifog.ch/
-- https://bakker-it.eu/
-- https://flokinet.is/
-- https://myroot.pw/
+- https://as210631.net
+- https://securebit.ch
+- https://dyjix.eu
+- https://lir.services
+- https://ifog.ch
+- https://bakker-it.eu
+- https://flokinet.is
+- https://myroot.pw
 - https://ip6.im
-- https://hostus.us/
-- https://freerangecloud.com/
-- https://snapserv.net/
-- https://servperso.net/
-- https://route48.org/
-- https://august.tw/
-- and many others ..
+- https://hostus.us
+- https://freerangecloud.com
+- https://snapserv.net
+- https://servperso.net
+- https://route48.org
+- https://august.tw
 
-## DNS Services (& rDNS)
+## <img src="./assets/icons/dns.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> DNS Services (& rDNS)
 
-- https://dns.as213045.net/
+- https://dns.as213045.net
 
 ## <img src="./assets/icons/debug_tools.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Debug tools (IPv6/IPv4)
 
-- https://mtr.tools/
+- https://mtr.tools
 - https://bgp.tools
-- https://ping.pe/
+- https://ping.pe
 - https://ping.sx
 
 ## <img src="./assets/icons/looking_glass.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Looking glasses (IPv6/IPv4)
@@ -82,50 +82,49 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://www.sprint.net/tools/looking-glass (Sprint)
 - http://lg.zayo.com/lg.cgi (Zayo Bandwidth)
 - https://lg.opentransit.net (Orange)
-- https://lg.aorta.net/ (Aorta)
+- https://lg.aorta.net (Aorta)
 - https://gambadilegno.noc.seabone.net/lg (Telecom Italia Sparkle)
 - https://www.gin.ntt.net/looking-glass (NTT)
 - https://lookingglass.telekom.com (Telekom)
-- https://lg.twelve99.net/ (Telia)
-- https://telxius.com/en/looking-glass-3/ (Telxius)
+- https://lg.twelve99.net (Telia)
+- https://telxius.com/en/looking-glass-3 (Telxius)
 - https://enterprise.verizon.com/why-verizon/looking-glass (Verizon)
 - https://lookingglass.consoleconnect.com (Consoleconnect)
 - http://route-server.ip.att.net (AT&T)
-- https://lg.he.net/ (No routes to Cogent on IPv6)
+- https://lg.he.net (No routes to Cogent on IPv6)
 
 ### Others
 
-- https://lg.ovh.net
-- https://www.pch.net/tools/looking_glass
-- https://lg.as213045.net
-- https://www.as58057.net
-- https://lg.retn.net
-- https://lg.hivane.net
-- https://www.as13030.net/looking-glass.php
-- http://lg.core-backbone.com
-- http://lg.as8218.eu
-- https://lg.grenode.net
-- https://lg.shadow.tech
-- https://lg.ch.as1836.net/lg
-- http://lg.hopus.net
-- https://lg.globenet.net/lg/lg.cgi
-- https://lg.eastlink.ca
-- https://webadmin.oxymium.net/mrlg
-- https://lg.de-cix.net
-- https://as41103.net/cgi-bin/bgplg
-- http://www.atlantis.bg/?id=18
-- https://lg.tetaneutral.net
-- http://lg.as60362.net
-- https://portal.spilsby.net.uk/lg
-- https://lg.a2b-internet.com
-- https://lg.anexia-it.com/lg
-- http://lg.avelacom.ru
-- https://lg.august.tw
+- https://lg.ovh.net (OVH)
+- https://www.pch.net/tools/looking_glass (Packet Clearing House)
+- https://lg.as213045.net (Alex Delporte)
+- https://www.as58057.net (Securebit AG)
+- https://lg.retn.net (RETN)
+- https://lg.hivane.net (Hivane)
+- https://www.as13030.net/looking-glass.php (Init7)
+- http://lg.core-backbone.com (Core-Backbone)
+- http://lg.as8218.eu (Zayo France)
+- https://lg.grenode.net (Grenode)
+- https://lg.shadow.tech (Shadow)
+- https://lg.ch.as1836.net/lg (Green)
+- http://lg.hopus.net (Hopus)
+- https://lg.globenet.net/lg/lg.cgi (Globenet)
+- https://lg.eastlink.ca (Eastlink)
+- https://webadmin.oxymium.net/mrlg (Oxymium)
+- https://lg.de-cix.net (DE-CIX)
+- https://as41103.net/cgi-bin/bgplg (teleBIZZ)
+- http://www.atlantis.bg/?id=18 (Atlantis)
+- https://lg.tetaneutral.net (Tetaneutral)
+- http://lg.as60362.net (AlwaysData)
+- https://portal.spilsby.net.uk/lg (ACME)
+- https://lg.a2b-internet.com (A2B Internet)
+- https://lg.anexia-it.com/lg (Anexia)
+- https://lg.august.tw (August Internet)
 
 ## <img src="./assets/icons/ixp.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Virtual internet exchange points
 
-- https://www.4ixp.com/ (around 130 peers via routeservers, connection via tunnel)
-- https://bgp.exchange/ (connection via tunnel, locations not interconnected)
+- https://www.4ixp.com (around 130 peers via routeservers, connection via tunnel)
+- https://bgp.exchange (connection via tunnel, locations not interconnected)
 
 ## <img src="./assets/icons/address.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> List of subnets with CIDR
 
