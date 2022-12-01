@@ -1,12 +1,8 @@
-<img src="./assets/icons/tools.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-# IPv6 Utils
+# <img src="./assets/icons/tools.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> IPv6 Utils
 
 IPv6 utils is a useful toolkit for people doing IPv6 networking.
 
-<img src="./assets/icons/formatting.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-## Formatting & identification
+## <img src="./assets/icons/formatting.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Formatting & identification
 
 A hexadecimal number can have 16 different values (from 0 to 9 and from A to F), which corresponds to exactly 4 bits. As each group is composed of four hexadecimal numbers, each group has 16 bits:
 
@@ -35,9 +31,7 @@ Examples of network ranges (All areas in bold are free and usable):
   - First address: 2001:db8:1e**0:0000:0000:0000:0000:0000**
   - Last address: 2001:db8:1e**f:ffff:ffff:ffff:ffff:ffff**
 
-<img src="./assets/icons/broker.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-## Free tunnel brokers
+## <img src="./assets/icons/broker.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Free tunnel brokers
 
 - https://tunnelbroker.net/ (multiple locations, routed /48 provided)
 - https://tb.netassist.ua/ (BGP only, Ukraine)
@@ -46,13 +40,9 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://www.route64.org/ (BGP enabled, multiple locations)
 - https://august.tw/ (BGP enabled, US, no routes to greater China)
 
-<img src="./assets/icons/provider.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
+## <img src="./assets/icons/provider.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> LIR services (Prefixes, ASNs providers)
 
-## LIR services (Prefixes, ASNs providers)
-
-<img src="./assets/icons/warning.png" width="20" height="20" style="float: left; margin-top: 11px; margin-right: 9px;"></img>
-
-### Extreme price variations, especially for ASNs - compare before you buy !
+### <img src="./assets/icons/warning.png" width="20" height="20" style="float: left; margin-top: 11px; margin-right: 9px;"></img> Extreme price variations, especially for ASNs - compare before you buy !
 
 - https://securebit.ch/
 - https://dyjix.eu/
@@ -70,18 +60,18 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://august.tw/
 - and many others ..
 
-<img src="./assets/icons/debug_tools.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
+## DNS Services (& rDNS)
 
-## Debug tools (IPv6/IPv4)
+- https://dns.as213045.net/
+
+## <img src="./assets/icons/debug_tools.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Debug tools (IPv6/IPv4)
 
 - https://mtr.tools/
 - https://bgp.tools
 - https://ping.pe/
 - https://ping.sx
 
-<img src="./assets/icons/looking_glass.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-## Looking glasses (IPv6/IPv4)
+## <img src="./assets/icons/looking_glass.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Looking glasses (IPv6/IPv4)
 
 ### Tier 1
 
@@ -132,16 +122,12 @@ Examples of network ranges (All areas in bold are free and usable):
 - http://lg.avelacom.ru
 - https://lg.august.tw
 
-<img src="./assets/icons/ixp.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-## Virtual internet exchange points
+## <img src="./assets/icons/ixp.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Virtual internet exchange points
 
 - https://www.4ixp.com/ (around 130 peers via routeservers, connection via tunnel)
 - https://bgp.exchange/ (connection via tunnel, locations not interconnected)
 
-<img src="./assets/icons/address.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-## List of subnets with CIDR
+## <img src="./assets/icons/address.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> List of subnets with CIDR
 
 <table>
               <thead>
@@ -666,9 +652,7 @@ Examples of network ranges (All areas in bold are free and usable):
               </tbody>
 </table>
  
-<img src="./assets/icons/type_addresses.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-## Type of addresses
+## <img src="./assets/icons/type_addresses.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Type of addresses
 
 <table>
               <thead>
@@ -722,9 +706,7 @@ Examples of network ranges (All areas in bold are free and usable):
                 </tbody>
 </table>
 
-<img src="./assets/icons/sources.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img>
-
-## Sources
+## <img src="./assets/icons/sources.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> Sources
 
 - https://fr.wikipedia.org/wiki/IPv6
 - http://www.gestioip.net/cgi-bin/subnet_calculator.cgi
